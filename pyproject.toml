@@ -1,0 +1,18 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "root"
+version = "0.0.0"
+description="flask template"
+[tool.poetry.dependencies]
+flask = "==1.0.2"
+python = "^3.8"
+Flask-Login = "^0.5.0"
+Flask-SQLAlchemy = "^2.5.1"
+Flask-WTF = "^1.0.0"
+WTForms = "^3.0.1"
+Flask-Bootstrap = "^3.3.7"
+Flask-CKEditor = "^0.4.6"
+SQLAlchemy = "^1.4.31"
+Werkzeug = "^2.0.3"
+Flask-Gravatar = "^0.5.0"
